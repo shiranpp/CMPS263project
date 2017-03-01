@@ -22,10 +22,11 @@ requirement:BeautifulSoup,geopy,sqlalchemy(installed by pip)
 ## JOBUI:
 * 1.Run the jobuiSpider.py
 
-### input:
+#### input:
 * JOBUI(salary data in beijing)
 * http://bj.lianjia.com/xiaoqu
-### output:
+
+#### output:
 * wage.csv--salary data in beijing
 
 ## LianjiaSpider:
@@ -41,17 +42,22 @@ output shows ¡®please change poxy and input any value to continue:¡¯. Use th
 openVpn or change openVpn¡¯s connection sever to get a new ip address and input
 any value in python console to continue.
 The cell data will be store into the aptpricedb.db
-## Input:
+
+#### Input:
 * Lianjia(inofmration to buy a apartment )
 * http://www.jobui.com/salary/beijing/
-## Output:
+
+#### Output:
 * aptpricedb.db--all inofmration to buy a apartment 
+
 
 ## Coodinate for each cell:
 * 1.Put coodCap.py,dbbase.py and aptpricedb.db from last section, Run the coodCap.py.
-### Input:
+
+#### Input:
 * googlegeoAPI
-### Output:
+
+#### Output:
 * aptpricedb.db-- Coordinate for cell
 
 
@@ -59,6 +65,9 @@ The cell data will be store into the aptpricedb.db
 ## Match the data.db's pruches history to our data format:
 * 1.PCMathcing.py, dbbase.py, aptpricedb.db and data.db in same dir
 * 2.run PCMathcing.py
-### Input:
+
+#### Input:
 * data.db--pruches history capture before lianjia implement ip blocker which i get from the a bloger
+
+#### Output:
 * aptpricedb.db--pruches history for each cell
