@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71cc994d-1f05-4fb1-b3ab-38bc0a0bd71d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Untitled-Copy1.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Untitled.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Untitled1.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Untitled2.ipynb" afterPath="$PROJECT_DIR$/Untitled2.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Untitled3.ipynb" afterPath="$PROJECT_DIR$/Untitled3.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Untitled4.ipynb" afterPath="$PROJECT_DIR$/Untitled4.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,14 +40,43 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-              <folding />
+            <state relative-caret-position="249">
+              <caret line="140" column="17" lean-forward="false" selection-start-line="140" selection-start-column="17" selection-end-line="140" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="2800" column="22" lean-forward="false" selection-start-line="2800" selection-start-column="22" selection-end-line="2800" selection-end-column="29" />
+              <folding>
+                <element signature="e#45898#46145#2" expanded="true" />
+                <element signature="e#46563#46883#2" expanded="true" />
+                <element signature="e#47295#47584#2" expanded="true" />
+                <element signature="e#73675#73875#2" expanded="true" />
+                <element signature="e#74015#74164#2" expanded="true" />
+                <element signature="e#74332#74478#2" expanded="true" />
+                <element signature="e#75164#75327#1" expanded="true" />
+                <element signature="e#89876#90119#2" expanded="true" />
+                <element signature="e#91082#91331#2" expanded="true" />
+                <element signature="e#124990#125177#2" expanded="true" />
+                <element signature="e#125233#125422#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ct</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +85,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Untitled4.ipynb" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -379,20 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Untitled2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Untitled3.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Untitled.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -430,11 +442,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Untitled2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Untitled3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="2800" column="22" lean-forward="false" selection-start-line="2800" selection-start-column="22" selection-end-line="2800" selection-end-column="29" />
+          <folding>
+            <element signature="e#45898#46145#2" expanded="true" />
+            <element signature="e#46563#46883#2" expanded="true" />
+            <element signature="e#47295#47584#2" expanded="true" />
+            <element signature="e#73675#73875#2" expanded="true" />
+            <element signature="e#74015#74164#2" expanded="true" />
+            <element signature="e#74332#74478#2" expanded="true" />
+            <element signature="e#75164#75327#1" expanded="true" />
+            <element signature="e#89876#90119#2" expanded="true" />
+            <element signature="e#91082#91331#2" expanded="true" />
+            <element signature="e#124990#125177#2" expanded="true" />
+            <element signature="e#125233#125422#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding />
+        <state relative-caret-position="249">
+          <caret line="140" column="17" lean-forward="false" selection-start-line="140" selection-start-column="17" selection-end-line="140" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
