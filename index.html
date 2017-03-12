@@ -325,11 +325,8 @@
                     if (d.properties.avg_price == 0)
                         return scale(1).hex();
                     ;
-<<<<<<< HEAD
                     return scale(Math.max(0, Math.min(30, (canyear(d.properties.avg_price) - 10) / 30))).hex();
-=======
                     return scale(Math.max(0, Math.min(30, (canyear(d.properties.avg_price) - 10) / 20))).hex();
->>>>>>> master
                 })
                 .style("opacity", 0.9)
                 .attr("d", path)
