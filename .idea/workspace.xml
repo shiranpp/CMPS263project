@@ -38,10 +38,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="140" column="19" lean-forward="true" selection-start-line="140" selection-start-column="19" selection-end-line="140" selection-end-column="19" />
+            <state relative-caret-position="60">
+              <caret line="373" column="51" lean-forward="false" selection-start-line="373" selection-start-column="51" selection-end-line="373" selection-end-column="51" />
               <folding>
-                <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,8 +51,8 @@
       <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="2800" column="22" lean-forward="false" selection-start-line="2800" selection-start-column="22" selection-end-line="2800" selection-end-column="29" />
+            <state relative-caret-position="184">
+              <caret line="2794" column="22" lean-forward="true" selection-start-line="2794" selection-start-column="22" selection-end-line="2794" selection-end-column="29" />
               <folding>
                 <element signature="e#45898#46145#2" expanded="true" />
                 <element signature="e#46563#46883#2" expanded="true" />
@@ -74,6 +75,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ct</find>
+      <find>zoom</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -456,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="2800" column="22" lean-forward="false" selection-start-line="2800" selection-start-column="22" selection-end-line="2800" selection-end-column="29" />
+        <state relative-caret-position="184">
+          <caret line="2794" column="22" lean-forward="true" selection-start-line="2794" selection-start-column="22" selection-end-line="2794" selection-end-column="29" />
           <folding>
             <element signature="e#45898#46145#2" expanded="true" />
             <element signature="e#46563#46883#2" expanded="true" />
@@ -476,10 +478,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="140" column="19" lean-forward="true" selection-start-line="140" selection-start-column="19" selection-end-line="140" selection-end-column="19" />
+        <state relative-caret-position="60">
+          <caret line="373" column="51" lean-forward="false" selection-start-line="373" selection-start-column="51" selection-end-line="373" selection-end-column="51" />
           <folding>
-            <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
