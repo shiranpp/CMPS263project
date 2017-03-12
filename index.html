@@ -110,7 +110,7 @@
     <br>
     <br>
     <div class="input-group">
-        <button id="wagetype1" type="button" class="btn btn-primary" onclick="changeWageType(1)">Fixed
+        <button id="wagetype1" type="button" class="btn btn-primary">Fixed
             wages/Month(每月固定工资):¥
         </button>
         <div>
@@ -325,7 +325,11 @@
                     if (d.properties.avg_price == 0)
                         return scale(1).hex();
                     ;
+<<<<<<< HEAD
                     return scale(Math.max(0, Math.min(30, (canyear(d.properties.avg_price) - 10) / 30))).hex();
+=======
+                    return scale(Math.max(0, Math.min(30, (canyear(d.properties.avg_price) - 10) / 20))).hex();
+>>>>>>> master
                 })
                 .style("opacity", 0.9)
                 .attr("d", path)
@@ -334,7 +338,7 @@
                     if (!isZoomed) {
                         d3.select(this)
                             .style("opacity", 0.7);
-                        tooltip.html(d.properties.name + "<br>Price(价格):¥" + tomoney(d.properties.avg_price, 2).toLocaleString("en-us") + " /m<sup>2</sup><br>Cost(花费):" + Number(canyear(d.properties.avg_price)).toFixed(2) + " year(年)")
+                        tooltip.html(d.properties.name + ((d.properties.avg_price==0)?"<br>unavailable(无信息)":("<br>Price(价格):¥" + tomoney(d.properties.avg_price, 2).toLocaleString("en-us") + " /m<sup>2</sup><br>Cost(花费):" + ((Number(canyear(d.properties.avg_price)) >= 70) ? '>70' : Number(canyear(d.properties.avg_price)).toFixed(2)) + " year(年)")))
                             .style("left", (d3.event.pageX) + "px")
                             .style("top", (d3.event.pageY + 10) + "px")
                             .style("opacity", 1.0);
@@ -344,7 +348,7 @@
                     }
                 }).on("mousemove", function (d) {
                 if (!isZoomed) {
-                    tooltip.html(d.properties.name + "<br>Price(价格):¥" + tomoney(d.properties.avg_price, 2).toLocaleString("en-us") + " /m<sup>2</sup><br>Cost(花费):" + Number(canyear(d.properties.avg_price)).toFixed(2) + " year(年)")
+                    tooltip.html(d.properties.name + ((d.properties.avg_price==0)?"<br>unavailable(无信息)":("<br>Price(价格):¥" + tomoney(d.properties.avg_price, 2).toLocaleString("en-us") + " /m<sup>2</sup><br>Cost(花费):" + ((Number(canyear(d.properties.avg_price)) >= 70) ? '>70' : Number(canyear(d.properties.avg_price)).toFixed(2)) + " year(年)")))
                         .style("left", (d3.event.pageX) + "px")
                         .style("top", (d3.event.pageY + 10) + "px")
                 } else {
