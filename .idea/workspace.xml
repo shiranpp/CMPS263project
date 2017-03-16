@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71cc994d-1f05-4fb1-b3ab-38bc0a0bd71d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="71cc994d-1f05-4fb1-b3ab-38bc0a0bd71d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,35 +9,38 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CMPS263project$coodCap.coverage" NAME="coodCap Coverage Results" MODIFIED="1489565303715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../data" />
+    <SUITE FILE_PATH="coverage/CMPS263project$jobuiSpider.coverage" NAME="jobuiSpider Coverage Results" MODIFIED="1489563063441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/CMPS263project$LianjiaSpider_0_1.coverage" NAME="LianjiaSpider_0_1 Coverage Results" MODIFIED="1489563498901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/CMPS263project$WageAna.coverage" NAME="WageAna Coverage Results" MODIFIED="1489622751554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CMPS263project$LianjiaSpider_0_2.coverage" NAME="LianjiaSpider_0_2 Coverage Results" MODIFIED="1489563756224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/CMPS263project$coodCap__1_.coverage" NAME="coodCap (1) Coverage Results" MODIFIED="1489612952661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Untitled2.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Untitled2.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="6" />
+      <file leaf-file-name="jobuiSpider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/jobuiSpider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-361">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Untitled3.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Untitled3.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Untitled4.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Untitled4.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="12" />
+      <file leaf-file-name="LianjiaSpider_0_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/LianjiaSpider_0_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#133#147#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,51 +48,42 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="24724" column="25" lean-forward="false" selection-start-line="24724" selection-start-column="25" selection-end-line="24724" selection-end-column="25" />
+            <state relative-caret-position="248">
+              <caret line="198" column="23" lean-forward="false" selection-start-line="198" selection-start-column="18" selection-end-line="198" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LianjiaSpider_0_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/LianjiaSpider_0_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WageAna.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/WageAna.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#170#201#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coodCap.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coodCap.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="is_in_poly.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/is_in_poly.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <file leaf-file-name="coodCap.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/coodCap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53086">
-              <caret line="2794" column="22" lean-forward="false" selection-start-line="2794" selection-start-column="22" selection-end-line="2794" selection-end-column="29" />
+            <state relative-caret-position="304">
+              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="10" />
               <folding>
-                <element signature="e#45898#46145#2" expanded="true" />
-                <element signature="e#46563#46883#2" expanded="true" />
-                <element signature="e#47295#47584#2" expanded="true" />
-                <element signature="e#73675#73875#2" expanded="true" />
-                <element signature="e#74015#74164#2" expanded="true" />
-                <element signature="e#74332#74478#2" expanded="true" />
-                <element signature="e#75164#75327#1" expanded="true" />
-                <element signature="e#89876#90119#2" expanded="true" />
-                <element signature="e#91082#91331#2" expanded="true" />
-                <element signature="e#124990#125177#2" expanded="true" />
-                <element signature="e#125233#125422#2" expanded="true" />
+                <element signature="e#134#150#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,15 +93,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ct</find>
-      <find>zoom</find>
-      <find>consol</find>
-      <find>sca</find>
-      <find>can</find>
-      <find>avg</find>
-      <find>rect</find>
       <find>con</find>
       <find>data</find>
+      <find>sca</find>
+      <find>.hex</find>
+      <find>jobs[0]</find>
+      <find>dis</find>
+      <find>scale1</find>
+      <find>h2</find>
+      <find>click</find>
+      <find>isZoo</find>
+      <find>wagemap</find>
+      <find>saving</find>
+      <find>price</find>
+      <find>can</find>
+      <find>rander</find>
+      <find>svg1</find>
+      <find>change</find>
+      <find>remove</find>
+      <find>g1</find>
+      <find>div</find>
+      <find>funding</find>
+      <find>console</find>
+      <find>consol</find>
+      <find>cells</find>
+      <find>pro</find>
+      <find>neighbor</find>
+      <find>jobs</find>
+      <find>map</find>
+      <find>svg</find>
+      <find>year</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -123,6 +136,20 @@
         <option value="$PROJECT_DIR$/Untitled4.ipynb" />
         <option value="$PROJECT_DIR$/Untitled3.ipynb" />
         <option value="$PROJECT_DIR$/coodCap.ipynb" />
+        <option value="$PROJECT_DIR$/is_in_poly.ipynb" />
+        <option value="$PROJECT_DIR$/script/coodCap (1).py" />
+        <option value="$PROJECT_DIR$/../../data/coodCap.py" />
+        <option value="$PROJECT_DIR$/script/dbbase.py" />
+        <option value="$PROJECT_DIR$/script/jobuiSpider.py" />
+        <option value="$PROJECT_DIR$/samplewage.json" />
+        <option value="$PROJECT_DIR$/hello.js" />
+        <option value="$PROJECT_DIR$/beijing1.json" />
+        <option value="$PROJECT_DIR$/script/is_in_poly.py" />
+        <option value="$PROJECT_DIR$/script/WageAna.py" />
+        <option value="$PROJECT_DIR$/WageAna.py" />
+        <option value="$PROJECT_DIR$/script/LianjiaSpider_0_1.py" />
+        <option value="$PROJECT_DIR$/script/LianjiaSpider_0_2.py" />
+        <option value="$PROJECT_DIR$/script/coodCap.py" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -136,8 +163,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -154,6 +181,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -169,15 +197,110 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Python27/python.exe" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shira\OneDrive\cmps263\project\git\CMPS263project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.WageAna">
+    <configuration default="false" name="LianjiaSpider_0_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CMPS263project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script/LianjiaSpider_0_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LianjiaSpider_0_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CMPS263project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script/LianjiaSpider_0_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="coodCap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CMPS263project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../data/coodCap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="coodCap (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CMPS263project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script/coodCap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WageAna" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CMPS263project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WageAna.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -392,6 +515,22 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.LianjiaSpider_0_1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LianjiaSpider_0_2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.coodCap" />
+      <item index="3" class="java.lang.String" itemvalue="Python.coodCap (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.WageAna" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.WageAna" />
+        <item index="1" class="java.lang.String" itemvalue="Python.coodCap (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.coodCap" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LianjiaSpider_0_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LianjiaSpider_0_1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -416,28 +555,48 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2281491" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -493,21 +652,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coodCap.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/is_in_poly.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="-1" />
@@ -519,17 +668,17 @@
         <state relative-caret-position="53086">
           <caret line="2794" column="22" lean-forward="false" selection-start-line="2794" selection-start-column="22" selection-end-line="2794" selection-end-column="29" />
           <folding>
-            <element signature="e#45898#46145#2" expanded="true" />
-            <element signature="e#46563#46883#2" expanded="true" />
-            <element signature="e#47295#47584#2" expanded="true" />
-            <element signature="e#73675#73875#2" expanded="true" />
-            <element signature="e#74015#74164#2" expanded="true" />
-            <element signature="e#74332#74478#2" expanded="true" />
-            <element signature="e#75164#75327#1" expanded="true" />
-            <element signature="e#89876#90119#2" expanded="true" />
-            <element signature="e#91082#91331#2" expanded="true" />
-            <element signature="e#124990#125177#2" expanded="true" />
-            <element signature="e#125233#125422#2" expanded="true" />
+            <element signature="e#45898#46145#2" expanded="false" />
+            <element signature="e#46563#46883#2" expanded="false" />
+            <element signature="e#47295#47584#2" expanded="false" />
+            <element signature="e#73675#73875#2" expanded="false" />
+            <element signature="e#74015#74164#2" expanded="false" />
+            <element signature="e#74332#74478#2" expanded="false" />
+            <element signature="e#75164#75327#1" expanded="false" />
+            <element signature="e#89876#90119#2" expanded="false" />
+            <element signature="e#91082#91331#2" expanded="false" />
+            <element signature="e#124990#125177#2" expanded="false" />
+            <element signature="e#125233#125422#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -559,10 +708,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -578,76 +724,17 @@
         <state relative-caret-position="53086">
           <caret line="2794" column="22" lean-forward="false" selection-start-line="2794" selection-start-column="22" selection-end-line="2794" selection-end-column="29" />
           <folding>
-            <element signature="e#45898#46145#2" expanded="true" />
-            <element signature="e#46563#46883#2" expanded="true" />
-            <element signature="e#47295#47584#2" expanded="true" />
-            <element signature="e#73675#73875#2" expanded="true" />
-            <element signature="e#74015#74164#2" expanded="true" />
-            <element signature="e#74332#74478#2" expanded="true" />
-            <element signature="e#75164#75327#1" expanded="true" />
-            <element signature="e#89876#90119#2" expanded="true" />
-            <element signature="e#91082#91331#2" expanded="true" />
-            <element signature="e#124990#125177#2" expanded="true" />
-            <element signature="e#125233#125422#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Untitled2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Untitled3.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Untitled4.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coodCap.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53086">
-          <caret line="2794" column="22" lean-forward="false" selection-start-line="2794" selection-start-column="22" selection-end-line="2794" selection-end-column="29" />
-          <folding>
-            <element signature="e#45898#46145#2" expanded="true" />
-            <element signature="e#46563#46883#2" expanded="true" />
-            <element signature="e#47295#47584#2" expanded="true" />
-            <element signature="e#73675#73875#2" expanded="true" />
-            <element signature="e#74015#74164#2" expanded="true" />
-            <element signature="e#74332#74478#2" expanded="true" />
-            <element signature="e#75164#75327#1" expanded="true" />
-            <element signature="e#89876#90119#2" expanded="true" />
-            <element signature="e#91082#91331#2" expanded="true" />
-            <element signature="e#124990#125177#2" expanded="true" />
-            <element signature="e#125233#125422#2" expanded="true" />
+            <element signature="e#45898#46145#2" expanded="false" />
+            <element signature="e#46563#46883#2" expanded="false" />
+            <element signature="e#47295#47584#2" expanded="false" />
+            <element signature="e#73675#73875#2" expanded="false" />
+            <element signature="e#74015#74164#2" expanded="false" />
+            <element signature="e#74332#74478#2" expanded="false" />
+            <element signature="e#75164#75327#1" expanded="false" />
+            <element signature="e#89876#90119#2" expanded="false" />
+            <element signature="e#91082#91331#2" expanded="false" />
+            <element signature="e#124990#125177#2" expanded="false" />
+            <element signature="e#125233#125422#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -677,10 +764,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
           <caret line="90" column="41" lean-forward="false" selection-start-line="90" selection-start-column="41" selection-end-line="90" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -689,17 +773,17 @@
         <state relative-caret-position="53086">
           <caret line="2794" column="22" lean-forward="true" selection-start-line="2794" selection-start-column="22" selection-end-line="2794" selection-end-column="29" />
           <folding>
-            <element signature="e#45898#46145#2" expanded="true" />
-            <element signature="e#46563#46883#2" expanded="true" />
-            <element signature="e#47295#47584#2" expanded="true" />
-            <element signature="e#73675#73875#2" expanded="true" />
-            <element signature="e#74015#74164#2" expanded="true" />
-            <element signature="e#74332#74478#2" expanded="true" />
-            <element signature="e#75164#75327#1" expanded="true" />
-            <element signature="e#89876#90119#2" expanded="true" />
-            <element signature="e#91082#91331#2" expanded="true" />
-            <element signature="e#124990#125177#2" expanded="true" />
-            <element signature="e#125233#125422#2" expanded="true" />
+            <element signature="e#45898#46145#2" expanded="false" />
+            <element signature="e#46563#46883#2" expanded="false" />
+            <element signature="e#47295#47584#2" expanded="false" />
+            <element signature="e#73675#73875#2" expanded="false" />
+            <element signature="e#74015#74164#2" expanded="false" />
+            <element signature="e#74332#74478#2" expanded="false" />
+            <element signature="e#75164#75327#1" expanded="false" />
+            <element signature="e#89876#90119#2" expanded="false" />
+            <element signature="e#91082#91331#2" expanded="false" />
+            <element signature="e#124990#125177#2" expanded="false" />
+            <element signature="e#125233#125422#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -721,13 +805,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="975" column="4" lean-forward="false" selection-start-line="975" selection-start-column="4" selection-end-line="975" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/numpy/core/fromnumeric.py" />
     <entry file="file://C:/Python27/Lib/site-packages/notebook/static/components/codemirror/mode/go/go.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -739,26 +817,6 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53086">
-          <caret line="2794" column="22" lean-forward="false" selection-start-line="2794" selection-start-column="22" selection-end-line="2794" selection-end-column="29" />
-          <folding>
-            <element signature="e#45898#46145#2" expanded="true" />
-            <element signature="e#46563#46883#2" expanded="true" />
-            <element signature="e#47295#47584#2" expanded="true" />
-            <element signature="e#73675#73875#2" expanded="true" />
-            <element signature="e#74015#74164#2" expanded="true" />
-            <element signature="e#74332#74478#2" expanded="true" />
-            <element signature="e#75164#75327#1" expanded="true" />
-            <element signature="e#89876#90119#2" expanded="true" />
-            <element signature="e#91082#91331#2" expanded="true" />
-            <element signature="e#124990#125177#2" expanded="true" />
-            <element signature="e#125233#125422#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -804,14 +862,170 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2794" column="22" lean-forward="false" selection-start-line="2794" selection-start-column="22" selection-end-line="2794" selection-end-column="29" />
+          <folding>
+            <element signature="e#45898#46145#2" expanded="false" />
+            <element signature="e#46563#46883#2" expanded="false" />
+            <element signature="e#47295#47584#2" expanded="false" />
+            <element signature="e#73675#73875#2" expanded="false" />
+            <element signature="e#74015#74164#2" expanded="false" />
+            <element signature="e#74332#74478#2" expanded="false" />
+            <element signature="e#75164#75327#1" expanded="false" />
+            <element signature="e#89876#90119#2" expanded="false" />
+            <element signature="e#91082#91331#2" expanded="false" />
+            <element signature="e#124990#125177#2" expanded="false" />
+            <element signature="e#125233#125422#2" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobuiSpider.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../data/dbbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/sqlalchemy/orm/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4560">
+          <caret line="257" column="0" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../data/coodCap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/PCMathcing.py" />
+    <entry file="file://$PROJECT_DIR$/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beijing1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="0" column="822186" lean-forward="true" selection-start-line="0" selection-start-column="822186" selection-end-line="0" selection-end-column="822186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samplewage.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="356" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="356" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beijing.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index - 副本.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WageAna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="84" column="25" lean-forward="true" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/is_in_poly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="69" column="74" lean-forward="false" selection-start-line="69" selection-start-column="74" selection-end-line="69" selection-end-column="74" />
+          <folding>
+            <element signature="e#133#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/dbbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="79" column="31" lean-forward="true" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/LianjiaSpider_0_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#133#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/jobuiSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/coodCap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="10" />
+          <folding>
+            <element signature="e#134#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/LianjiaSpider_0_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/WageAna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#170#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="24724" column="25" lean-forward="false" selection-start-line="24724" selection-start-column="25" selection-end-line="24724" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="248">
+          <caret line="198" column="23" lean-forward="false" selection-start-line="198" selection-start-column="18" selection-end-line="198" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
