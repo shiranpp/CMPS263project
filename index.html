@@ -24,7 +24,12 @@
     }
 
     div.map {
-        height:600px;
+        height: 600px;
+    }
+
+    div.wage {
+        height: 200%;
+        width: 200%;
     }
 
     .container {
@@ -58,17 +63,20 @@
         font-size: 16px;
         color: #000;
     }
-    div.info{
+
+    div.info {
         float: left;
         height: 100%;
         width: 30%;
     }
+
     svg.wagemap {
-        float: left;
-        position: absolute;
+        float: top;
+        position: relative;
         height: 100%;
-        width: 30%;
+        width: 60%;
     }
+
     svg.district {
         float: right;
         position: relative;
@@ -268,6 +276,7 @@
     var center = [116.41667, 40.21667];
     //div width
     var m_width = $("#map").width();
+    var m_width1 = $("#wage").width();
 
     var isZoomed = false;
     var district;
@@ -332,10 +341,11 @@
         .projection(projection);
     var funding = 0;
     var svg1 = d3.select("#wage").append("svg")
-        .attr("viewBox", "0 300 " + 400 + " " + 200)
+        .attr("viewBox", "0 0 400 200")
         .attr("class", "wagemap")
-        .attr("width", 450)
-        .attr("height", 200);
+        .attr("width", m_width1)
+        .attr("height", m_width1 * 200 / 400);
+
 
     var svg = d3.select("#map").append("svg")
         .attr("class", "district")
